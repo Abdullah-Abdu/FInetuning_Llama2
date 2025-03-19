@@ -1,4 +1,4 @@
-# Finetuning_Llama2
+# Finetuning_Llama_Model
 
 
 **This project demonstrates training a Llama-based model using the Lamini library. The training pipeline involves loading a dataset (lamini_docs.jsonl), tokenizing the data, and fine-tuning the model (EleutherAI/pythia-70m). The trained model can be used for inference to generate responses based on input queries.** 
